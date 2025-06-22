@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "animalGame", "animalGame.vcxproj", "{F30638FC-7D13-4D3B-88BE-68BD00EA2280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F30638FC-7D13-4D3B-88BE-68BD00EA2280}.Debug|x64.ActiveCfg = Debug|x64
+		{F30638FC-7D13-4D3B-88BE-68BD00EA2280}.Debug|x64.Build.0 = Debug|x64
+		{F30638FC-7D13-4D3B-88BE-68BD00EA2280}.Release|x64.ActiveCfg = Release|x64
+		{F30638FC-7D13-4D3B-88BE-68BD00EA2280}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A753AB2-E9FB-414C-A54F-58D96B6185CA}
+	EndGlobalSection
+EndGlobal

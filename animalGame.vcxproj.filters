@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>qml;cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>qrc;rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Translation Files">
+      <UniqueIdentifier>{639EADAA-A684-42e4-A9AD-28FC9BCB8F7C}</UniqueIdentifier>
+      <Extensions>ts</Extensions>
+    </Filter>
+    <Filter Include="Header Files\后端">
+      <UniqueIdentifier>{e3ca7e2b-1c83-476e-befd-78c0d8217ca6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\后端">
+      <UniqueIdentifier>{09eea051-e7d4-4a85-9d9a-1c62acbc6bfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\前端">
+      <UniqueIdentifier>{28f10b31-4bcc-4a5e-84dc-94bef18568d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\前端">
+      <UniqueIdentifier>{715c52ed-efc6-495f-929d-730fdf31d910}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\前端\背景">
+      <UniqueIdentifier>{0f9879fd-48cd-436a-b86b-02d07e68cad8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\前端\背景">
+      <UniqueIdentifier>{2db0f226-484a-4d16-979a-953cc781ecd0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="animalGame.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="twork.cpp">
+      <Filter>Source Files\后端</Filter>
+    </ClCompile>
+    <ClCompile Include="tstatus.cpp">
+      <Filter>Source Files\后端</Filter>
+    </ClCompile>
+    <ClCompile Include="tshop.cpp">
+      <Filter>Source Files\后端</Filter>
+    </ClCompile>
+    <ClCompile Include="thousework.cpp">
+      <Filter>Source Files\后端</Filter>
+    </ClCompile>
+    <ClCompile Include="thome.cpp">
+      <Filter>Source Files\后端</Filter>
+    </ClCompile>
+    <ClCompile Include="tgood.cpp">
+      <Filter>Source Files\后端</Filter>
+    </ClCompile>
+    <ClCompile Include="texercise.cpp">
+      <Filter>Source Files\后端</Filter>
+    </ClCompile>
+    <ClCompile Include="tcharacter.cpp">
+      <Filter>Source Files\后端</Filter>
+    </ClCompile>
+    <ClCompile Include="admin.cpp">
+      <Filter>Source Files\前端</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>Source Files\前端</Filter>
+    </ClCompile>
+    <ClCompile Include="animalGame.cpp">
+      <Filter>Source Files\前端</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tcharacterbutton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tcharacterbutton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="backgrounds.cpp">
+      <Filter>Source Files\前端\背景</Filter>
+    </ClCompile>
+    <ClCompile Include="tanimwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameInclude.h">
+      <Filter>Header Files\后端</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="twork.h">
+      <Filter>Header Files\后端</Filter>
+    </QtMoc>
+    <QtMoc Include="tstatus.h">
+      <Filter>Header Files\后端</Filter>
+    </QtMoc>
+    <QtMoc Include="tshop.h">
+      <Filter>Header Files\后端</Filter>
+    </QtMoc>
+    <QtMoc Include="thousework.h">
+      <Filter>Header Files\后端</Filter>
+    </QtMoc>
+    <QtMoc Include="thome.h">
+      <Filter>Header Files\后端</Filter>
+    </QtMoc>
+    <QtMoc Include="tgood.h">
+      <Filter>Header Files\后端</Filter>
+    </QtMoc>
+    <QtMoc Include="texercise.h">
+      <Filter>Header Files\后端</Filter>
+    </QtMoc>
+    <QtMoc Include="tcharacter.h">
+      <Filter>Header Files\后端</Filter>
+    </QtMoc>
+    <QtMoc Include="defines.h">
+      <Filter>Header Files\后端</Filter>
+    </QtMoc>
+    <QtMoc Include="admin.h">
+      <Filter>Header Files\前端</Filter>
+    </QtMoc>
+    <QtMoc Include="animalGame.h">
+      <Filter>Header Files\前端</Filter>
+    </QtMoc>
+    <QtMoc Include="test.h">
+      <Filter>Header Files\前端</Filter>
+    </QtMoc>
+    <QtMoc Include="tcharacterbutton.h">
+      <Filter>Header Files\前端</Filter>
+    </QtMoc>
+    <QtMoc Include="backgrounds.h">
+      <Filter>Header Files\前端\背景</Filter>
+    </QtMoc>
+    <QtMoc Include="tanimwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="readme.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="test.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="admin.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="animalGame_mw.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
+</Project>

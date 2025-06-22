@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>adminClass</class>
+ <widget class="QWidget" name="adminClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>321</width>
+    <height>259</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>admin</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout" columnstretch="1,0,1">
+   <item row="0" column="0">
+    <widget class="QSpinBox" name="spinBox">
+     <property name="wrapping">
+      <bool>false</bool>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="1">
+    <widget class="QCheckBox" name="checkBox">
+     <property name="text">
+      <string>下降</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="2">
+    <widget class="QPushButton" name="btnWeight">
+     <property name="text">
+      <string>体重改变</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="QSpinBox" name="spinBox_2"/>
+   </item>
+   <item row="1" column="1">
+    <widget class="QCheckBox" name="checkBox_2">
+     <property name="text">
+      <string>下降</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="2">
+    <widget class="QPushButton" name="btnPower">
+     <property name="text">
+      <string>体力改变</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="0">
+    <widget class="QSpinBox" name="spinBox_3"/>
+   </item>
+   <item row="2" column="1">
+    <widget class="QCheckBox" name="checkBox_3">
+     <property name="text">
+      <string>下降</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="2">
+    <widget class="QPushButton" name="btnHeart">
+     <property name="text">
+      <string>爱心改变</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="0">
+    <widget class="QSpinBox" name="spinBox_4"/>
+   </item>
+   <item row="3" column="1">
+    <widget class="QCheckBox" name="checkBox_4">
+     <property name="text">
+      <string>下降</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="2">
+    <widget class="QPushButton" name="btnExp">
+     <property name="text">
+      <string>经验改变</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="0">
+    <widget class="QSpinBox" name="spinBox_5">
+     <property name="maximum">
+      <number>9999</number>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="1">
+    <widget class="QCheckBox" name="checkBox_5">
+     <property name="text">
+      <string>下降</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="2">
+    <widget class="QPushButton" name="btnMoney">
+     <property name="text">
+      <string>金钱改变</string>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="0">
+    <widget class="QSpinBox" name="spinBox_6"/>
+   </item>
+   <item row="5" column="1">
+    <widget class="QCheckBox" name="checkBox_6">
+     <property name="text">
+      <string>下降</string>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="2">
+    <widget class="QPushButton" name="btnLevel">
+     <property name="text">
+      <string>等级改变</string>
+     </property>
+    </widget>
+   </item>
+   <item row="6" column="2">
+    <widget class="QPushButton" name="btnStopWork">
+     <property name="text">
+      <string>工作强制停止</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

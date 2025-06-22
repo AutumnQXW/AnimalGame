@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>images/banzhuan.jpg</file>
+        <file>images/gym.jpg</file>
+        <file>images/kitchen.jpg</file>
+        <file>images/mainroom.jpg</file>
+        <file>images/park.jpg</file>
+        <file>images/shop.jpg</file>
+        <file>images/wash.jpg</file>
+        <file>images/zuoban.jpg</file>
+        <file>images/bedroom.jpg</file>
+    </qresource>
+    <qresource prefix="/characters">
+        <file>images/cat.png</file>
+        <file>images/cat_happy.png</file>
+        <file>images/dog.png</file>
+        <file>images/dog_happy.png</file>
+        <file>images/rabbit.png</file>
+        <file>images/rabbit_happy.png</file>
+        <file>images/cat_tired.png</file>
+        <file>images/dog_tired.png</file>
+        <file>images/rabbit_tired.png</file>
+        <file>images/cat1.png</file>
+        <file>images/cat_fat.png</file>
+        <file>images/dog_fat.png</file>
+        <file>images/rabbit_fat.png</file>
+        <file>images/cat_hungry.png</file>
+        <file>images/dog_hungry.png</file>
+        <file>images/rabbit_hungry.png</file>
+    </qresource>
+    <qresource prefix="/items">
+        <file>images/bread.png</file>
+        <file>images/hamburger.png</file>
+        <file>images/spam.png</file>
+    </qresource>
+</RCC>
