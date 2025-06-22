@@ -148,9 +148,6 @@
     </QtMoc>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="readme.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <QtUic Include="test.ui">
       <Filter>Form Files</Filter>
     </QtUic>

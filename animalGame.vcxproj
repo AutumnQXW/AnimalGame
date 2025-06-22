@@ -134,9 +134,6 @@
     <QtMoc Include="tcharacter.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="readme.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="README.md">
       <SubType>
       </SubType>
